@@ -27,3 +27,13 @@ Purpose: The issue was used to define and keep track of the work required for th
 ## How the Workflow Connects
 
 The issue defined the work that needed to be completed for the lab. I created the feature branch so I could make the required changes separately from the main branch. The commits saved the changes I made during the process. I then opened a pull request to review the work before merging it into main. The review helped me identify changes that still needed to be made before completing the merge.
+## Commit Links
+1. Complete workflow documentation after review:
+https://github.com/mattsaba54/SWE325_525-github-ai-practice/commit/d94f399a1f8fc8bc0884ef1c9c71ab38721c070d
+2. Add AI-use record:
+https://github.com/mattsaba54/SWE325_525-github-ai-practice/commit/69f431e3a1bf448d6590add9c7eeeb4c041a6e42
+3. Document branch and pull request workflow:
+https://github.com/mattsaba54/SWE325_525-github-ai-practice/commit/93c441506bbac7338f8ae350347892f7e192de4f
+## Repository History
+Repository history URL:
+https://github.com/mattsaba54/SWE325_525-github-ai-practice/commits/main/
